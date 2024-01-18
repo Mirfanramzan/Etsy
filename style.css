@@ -1,7 +1,4 @@
-.topnave{
-       background-color: #333;
-        overflow: hidden;
-}
+
 .container {
   display: flex;
   justify-content: center;
@@ -36,23 +33,22 @@
   margin: auto;
   padding: 5%;
 }
-.box{
-    display:flex;
-    justify-content:center;
-    flex-wrap: wrap;
-    margin: 15px;
-    padding: 10px;
+.box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 15px;
+  padding: 10px;
 }
-.box>div>img{
-    display: flex;
-    flex-direction:column;
-    justify-content:center;
-    flex-wrap: wrap;
-    margin: 10px;
-    padding: 10px;
-    height: 120px;
-    width: 150px;
-    
+.box > div > img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+  height: 120px;
+  width: 150px;
 }
 /* .foot {
     display: flex;
